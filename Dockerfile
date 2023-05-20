@@ -9,8 +9,8 @@ COPY . /app
 
 RUN pip install --upgrade pip
 # Install the application dependencies
-RUN pip install -r requirements.txt
 ENV PIP_ROOT_USER_ACTION=ignore
+RUN pip install -r requirements.txt
 
 # Define the entry point for the container
 CMD python ./app.py

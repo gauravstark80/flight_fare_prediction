@@ -3,7 +3,7 @@
 ## Table of Content
   * [Overview](#overview)
   * [Installation](#installation)
-  * [Deployment](#Deployement on Render)
+  * [Deployment](#Deployement)
   * [Directory Tree](#directory-tree)
   * [Points](#points)
 

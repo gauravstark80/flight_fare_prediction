@@ -28,3 +28,55 @@ pip freeze > requirements.txt
 
 6. To deactivate myenv                                     >>
 conda deactivate myenv
+
+----------------------
+# Flight Fare Prediction: 
+
+## Table of Content
+  * [Demo](#demo)
+  * [Overview](#overview)
+  * [Installation](#installation)
+  * [Directory Tree](#directory-tree)
+
+## Demo
+Link: [https://flight-price-prediction-api.herokuapp.com/](https://flight-price-prediction-api.herokuapp.com/)
+
+[![](https://i.imgur.com/R1g2wvC.png)](https://flight-price-prediction-api.herokuapp.com/)
+
+[![](https://i.imgur.com/p0aeL6c.png)](https://flight-price-prediction-api.herokuapp.com/)
+
+## Overview
+This is a Flask web app which predicts fare of Flight ticket.
+
+## Installation
+The Code is written in Python 3.7. To install the required packages and libraries, run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
+```bash
+pip install -r requirements.txt
+```
+
+## Deployement on Render
+Login or signup in order to create virtual app. You can either connect your github profile or download ctl to manually deploy this project.
+
+[![](https://i.imgur.com/dKmlpqX.png)](https://heroku.com)
+
+## Directory Tree 
+```
+├── static 
+│   ├── css
+├── template
+│   ├── home.html
+├── Procfile
+├── README.md
+├── app.py
+├── flight_price.ipynb
+├── flight_rf.pkl
+├── requirements.txt
+```
+
+## Technologies Used
+
+![](https://forthebadge.com/images/badges/made-with-python.svg)
+
+[<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/) 
+
+

@@ -39,11 +39,7 @@ conda deactivate myenv
   * [Directory Tree](#directory-tree)
 
 ## Demo
-Link: [https://flight-price-prediction-api.herokuapp.com/](https://flight-price-prediction-api.herokuapp.com/)
-
-[![](https://i.imgur.com/R1g2wvC.png)](https://flight-price-prediction-api.herokuapp.com/)
-
-[![](https://i.imgur.com/p0aeL6c.png)](https://flight-price-prediction-api.herokuapp.com/)
+Link: [https://flightfarepredict.onrender.com/](https://flightfarepredict.onrender.com/)
 
 ## Overview
 This is a Flask web app which predicts fare of Flight ticket.
@@ -57,8 +53,6 @@ pip install -r requirements.txt
 ## Deployement on Render
 Access to my deployment on Render Platform
 [https://flightfarepredict.onrender.com/](https://flightfarepredict.onrender.com/)
-
-[![](https://i.imgur.com/dKmlpqX.png)](https://heroku.com)
 
 ## Directory Tree 
 ```

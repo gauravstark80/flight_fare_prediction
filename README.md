@@ -7,9 +7,6 @@
   * [Directory Tree](#directory-tree)
   * [Points](#points)
 
-## Demo
-
-
 ## Overview
 This is a Flask web app which predicts fare of Flight ticket.
 
@@ -25,6 +22,9 @@ pip install -r requirements.txt
 Access to my deployment on Render Platform
 
 Link: [https://flightfarepredict.onrender.com/](https://flightfarepredict.onrender.com/)
+[![](https://i.imgur.com/R1g2wvC.png)](https://flight-price-prediction-api.herokuapp.com/)
+
+[![](https://i.imgur.com/p0aeL6c.png)](https://flight-price-prediction-api.herokuapp.com/)
 
 ## Directory Tree 
 ```

@@ -1,14 +1,14 @@
-# Flight Fare Prediction: [flight_fare_prediction_001](https://flightfarepredict.onrender.com/)
+# Flight Fare Prediction: 
 
 ## Table of Content
-  * [Demo](#demo)
   * [Overview](#overview)
   * [Installation](#installation)
+  * [Deployment](#Deployement on Render)
   * [Directory Tree](#directory-tree)
   * [Points](#points)
 
 ## Demo
-Link: [https://flightfarepredict.onrender.com/](https://flightfarepredict.onrender.com/)
+
 
 ## Overview
 This is a Flask web app which predicts fare of Flight ticket.
@@ -23,6 +23,7 @@ pip install -r requirements.txt
 ## Deployement on Render
 Access to my deployment on Render Platform
 [https://flightfarepredict.onrender.com/](https://flightfarepredict.onrender.com/)
+Link: [https://flightfarepredict.onrender.com/](https://flightfarepredict.onrender.com/)
 
 ## Directory Tree 
 ```

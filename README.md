@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 ## Deployement on Render
 Access to my deployment on Render Platform
-[https://flightfarepredict.onrender.com/](https://flightfarepredict.onrender.com/)
+
 Link: [https://flightfarepredict.onrender.com/](https://flightfarepredict.onrender.com/)
 
 ## Directory Tree 

@@ -1,10 +1,4 @@
-# Flight Fare Prediction
-flight_fare_prediction_001
-
-In this project I used the data which is available at the Kaggle and used it in machine learning to come up with a model which can predict the fare with minimum error. I performed preprocessing of data such as Exploratory Data Analysis, Data Cleaning, Data Visualization, Feature Engineering before applying the machine learning model. This has helped me to gain insights from the data and understand in visual format how the various features are correlated. The train and test data has been split accordingly. The random forest technique is one such regression tool which I used in this project and finally created a model. 
-
-----------------------
-# Flight Fare Prediction: 
+# Flight Fare Prediction: [flight_fare_prediction_001](https://flightfarepredict.onrender.com/)
 
 ## Table of Content
   * [Demo](#demo)
@@ -18,6 +12,7 @@ Link: [https://flightfarepredict.onrender.com/](https://flightfarepredict.onrend
 
 ## Overview
 This is a Flask web app which predicts fare of Flight ticket.
+In this project I used the data which is available at the Kaggle and used it in machine learning to come up with a model which can predict the fare with minimum error. I performed preprocessing of data such as Exploratory Data Analysis, Data Cleaning, Data Visualization, Feature Engineering before applying the machine learning model. This has helped me to gain insights from the data and understand in visual format how the various features are correlated. The train and test data has been split accordingly. The random forest technique is one such regression tool which I used in this project and finally created a model. 
 
 ## Installation
 The Code is written in Python 3.7. To install the required packages and libraries, run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:

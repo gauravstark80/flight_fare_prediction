@@ -20,13 +20,8 @@ pip install -r requirements.txt
 
 ## Deployement on Render
 Access to my deployment on Render Platform
-
 Link: [https://flightfarepredict.onrender.com/](https://flightfarepredict.onrender.com/)
-<img width="943" alt="image" src="https://github.com/gauravstark80/flight_fare_prediction/assets/52076806/ce467d42-6fa7-4b30-bb40-66e50b0d83ac">
-
-
-[![](https://i.imgur.com/p0aeL6c.png)](https://flightfarepredict.onrender.com/)
-
+<img width="900" alt="image" src="https://github.com/gauravstark80/flight_fare_prediction/assets/52076806/ce467d42-6fa7-4b30-bb40-66e50b0d83ac">
 ## Directory Tree 
 ```
 ├── static 

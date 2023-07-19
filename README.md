@@ -7,9 +7,6 @@
   * [Directory Tree](#directory-tree)
   * [Points](#points)
 
-<img width="50" alt="image" src="https://github.com/gauravstark80/flight_fare_prediction/assets/52076806/3045a3a1-2f55-4d87-9d6a-26a86c745def">
-
-
 ## Overview
 This is a Flask web app which predicts fare of Flight ticket.
 
